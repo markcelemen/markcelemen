@@ -2,13 +2,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/markcelemen/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/markcelemen/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://markcelemen.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://api.iconify.design/lucide/globe.svg?color=%23808080" width="40" height="40" alt="Portfolio" />
   </a>
 </p>
 
