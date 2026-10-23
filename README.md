@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markcelemen/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/markcelemen/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://markcelemen.vercel.app/)
 
 Hi, I'm Mark Celemen. I'm a Computer Science student at De La Salle University. My interests lie in leveraging Data Science and AI/ML to help drive innovation and solve business problems.
 
@@ -12,6 +11,8 @@ Hi, I'm Mark Celemen. I'm a Computer Science student at De La Salle University. 
 - Previous Software Engineering Intern @ KadaKareer
 
 <!--
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://markcelemen.vercel.app/)
+
 **markcelemen/markcelemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
